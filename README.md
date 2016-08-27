@@ -1,2 +1,5 @@
 # hello-world
-Initial repository
+
+Hey There!
+
+Dreaming of Hawaii, specifically, the Island of Oahu, Kailua beach...
